@@ -1,2 +1,2 @@
 # rrr
-<img src="/fingertalk.jpg" height="60" width="60" >
+<img src="/fingertalk.jpg" height="250" width="250" >
