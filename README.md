@@ -1,3 +1,3 @@
 # rrr
 
-![Finger talk team](/repository/fingertalk.jpg?raw=true "Employee Data title")
+![Finger talk team](/fingertalk.jpg?raw=true "Employee Data title")
